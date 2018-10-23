@@ -1,0 +1,2 @@
+Compile with: $ javac Server.java
+Run with: $ java Server <PORT>
