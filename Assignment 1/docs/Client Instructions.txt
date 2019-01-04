@@ -1,2 +1,0 @@
-Compile with: $ javac Simulator.java
-Run with: $ java Simulator <HOST> <PORT> <No of clients>
